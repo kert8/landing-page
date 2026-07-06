@@ -1,0 +1,35 @@
+.below-container {
+  text-align: center;
+  color: #1F2937;
+  padding: 30px;
+}
+.random-information {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+  padding-bottom: 30px;
+}
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-bottom: 60px;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 120px;
+}
+.card-item {
+  height: 120px;
+  width: 120px;
+  border: solid 3px #3882F6;
+  border-radius: 10px;
+}
+.card-text{
+  text-wrap: wrap;
+}
