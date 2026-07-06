@@ -1,0 +1,23 @@
+.quote-container {
+  background-color: #E5E7EB;
+  padding: 30px 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.quote {
+  margin-top: 50px;
+  width: 720px;
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+.author {
+  font-weight: 900;
+  text-align: right;
+  width: min(720px, 100%);
+  margin-bottom: 40px;
+}
