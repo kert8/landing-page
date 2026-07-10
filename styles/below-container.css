@@ -27,9 +27,13 @@
 .card-item {
   height: 120px;
   width: 120px;
-  border: solid 3px #3882F6;
+  /* border: solid 3px #3882F6; */
   border-radius: 10px;
 }
 .card-text{
   text-wrap: wrap;
+}
+
+.icons {
+  fill: #3882F6
 }
